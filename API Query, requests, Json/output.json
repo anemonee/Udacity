@@ -1,0 +1,1919 @@
+{
+  "status": "OK", 
+  "num_results": 1528, 
+  "results": [
+    {
+      "asset_id": 100000004831489, 
+      "byline": "By MICHAEL J. de la MERCED", 
+      "des_facet": [
+        "LABOR AND JOBS", 
+        "FOREIGN INVESTMENTS", 
+        "SATELLITES", 
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ], 
+      "title": "Japanese Mogul Starts on Vow to Trump to Create 50,000 U.S. Jobs", 
+      "url": "http://www.nytimes.com/2016/12/19/business/dealbook/japanese-mogul-starts-on-vow-to-trump-to-create-50000-us-jobs.html", 
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/business/20db-softbank/20db-softbank-square320.jpg", 
+              "width": 320, 
+              "height": 320, 
+              "format": "square320"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/business/20db-softbank/20db-softbank-thumbStandard.jpg", 
+              "width": 75, 
+              "height": 75, 
+              "format": "Standard Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/business/20db-softbank/20db-softbank-articleInline.jpg", 
+              "width": 190, 
+              "height": 139, 
+              "format": "Normal"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/business/20db-softbank/20db-softbank-sfSpan.jpg", 
+              "width": 395, 
+              "height": 263, 
+              "format": "Large"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/business/20db-softbank/20db-softbank-jumbo.jpg", 
+              "width": 1024, 
+              "height": 746, 
+              "format": "Jumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/business/20db-softbank/20db-softbank-superJumbo.jpg", 
+              "width": 2048, 
+              "height": 1493, 
+              "format": "superJumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/business/20db-softbank/20db-softbank-square640.jpg", 
+              "width": 640, 
+              "height": 640, 
+              "format": "square640"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/business/20db-softbank/20db-softbank-thumbLarge.jpg", 
+              "width": 150, 
+              "height": 150, 
+              "format": "Large Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/business/20db-softbank/20db-softbank-mediumThreeByTwo210.jpg", 
+              "width": 210, 
+              "height": 140, 
+              "format": "mediumThreeByTwo210"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/business/20db-softbank/20db-softbank-mediumThreeByTwo440.jpg", 
+              "width": 440, 
+              "height": 293, 
+              "format": "mediumThreeByTwo440"
+            }
+          ], 
+          "subtype": "photo", 
+          "type": "image", 
+          "copyright": "Andrew Harnik/Associated Press", 
+          "caption": "Masayoshi Son of Softbank after a meeting with President-elect Donald J. Trump in early December."
+        }
+      ], 
+      "section": "Business Day", 
+      "views": 1, 
+      "id": 100000004831489, 
+      "column": "", 
+      "geo_facet": "", 
+      "adx_keywords": "Son, Masayoshi;OneWeb Inc;Trump, Donald J;SOFTBANK Corporation;Labor and Jobs;Foreign Investments;Satellites;OneWeb;United States Politics and Government", 
+      "source": "The New York Times", 
+      "org_facet": [
+        "ONEWEB INC", 
+        "SOFTBANK CORPORATION", 
+        "ONEWEB"
+      ], 
+      "published_date": "2016-12-19", 
+      "per_facet": [
+        "SON, MASAYOSHI", 
+        "TRUMP, DONALD J"
+      ], 
+      "type": "Article", 
+      "abstract": "A $1.2 billion investment by Masayoshi Son\u2019s conglomerate, SoftBank, is the first step in his promise made in a meeting with Mr. Trump to create thousands of jobs in the United States."
+    }, 
+    {
+      "asset_id": 100000004825207, 
+      "byline": "By DANIEL VICTOR", 
+      "des_facet": [
+        "TELEVISION", 
+        "CONTESTS AND PRIZES"
+      ], 
+      "title": "\u2018Jeopardy!\u2019 Champion Dies Before She Could See Her Triumph on TV", 
+      "url": "http://www.nytimes.com/2016/12/16/us/cindy-stowell-jeopardy-death.html", 
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/18/us/18JEOPARDY-01/17xp-jeopardy_web1-square320.jpg", 
+              "width": 320, 
+              "height": 320, 
+              "format": "square320"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/18/us/18JEOPARDY-01/17xp-jeopardy_web1-thumbStandard.jpg", 
+              "width": 75, 
+              "height": 75, 
+              "format": "Standard Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/18/us/18JEOPARDY-01/17xp-jeopardy_web1-articleInline.jpg", 
+              "width": 190, 
+              "height": 107, 
+              "format": "Normal"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/18/us/18JEOPARDY-01/17xp-jeopardy_web1-sfSpan.jpg", 
+              "width": 395, 
+              "height": 263, 
+              "format": "Large"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/18/us/18JEOPARDY-01/17xp-jeopardy_web1-jumbo.jpg", 
+              "width": 1024, 
+              "height": 576, 
+              "format": "Jumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/18/us/18JEOPARDY-01/17xp-jeopardy_web1-superJumbo.jpg", 
+              "width": 1920, 
+              "height": 1080, 
+              "format": "superJumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/18/us/18JEOPARDY-01/17xp-jeopardy_web1-square640.jpg", 
+              "width": 640, 
+              "height": 640, 
+              "format": "square640"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/18/us/18JEOPARDY-01/17xp-jeopardy_web1-thumbLarge.jpg", 
+              "width": 150, 
+              "height": 150, 
+              "format": "Large Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/18/us/18JEOPARDY-01/17xp-jeopardy_web1-mediumThreeByTwo210.jpg", 
+              "width": 210, 
+              "height": 140, 
+              "format": "mediumThreeByTwo210"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/18/us/18JEOPARDY-01/17xp-jeopardy_web1-mediumThreeByTwo440.jpg", 
+              "width": 440, 
+              "height": 293, 
+              "format": "mediumThreeByTwo440"
+            }
+          ], 
+          "subtype": "photo", 
+          "type": "image", 
+          "copyright": "Jeopardy Productions, Inc., via Associated Press", 
+          "caption": "Cindy Stowell with the &ldquo;Jeopardy!&rdquo; host Alex Trebek on the game show&rsquo;s set in Culver City, Calif., in August."
+        }
+      ], 
+      "section": "U.S.", 
+      "views": 2, 
+      "id": 100000004825207, 
+      "column": "", 
+      "geo_facet": "", 
+      "adx_keywords": "Stowell, Cindy (1975-2016);Deaths (Obituaries);Jeopardy! (TV Program);Television;Contests and Prizes", 
+      "source": "The New York Times", 
+      "org_facet": "", 
+      "published_date": "2016-12-16", 
+      "per_facet": [
+        "STOWELL, CINDY (1975-2016)"
+      ], 
+      "type": "Article", 
+      "abstract": "Taped episodes show Cindy Stowell, who planned to donate her winnings to cancer charities, triumphing three times in a row so far."
+    }, 
+    {
+      "asset_id": 100000004773477, 
+      "byline": "By ERIN McCANN", 
+      "des_facet": [
+        "WINES", 
+        "CHOCOLATE", 
+        "RECIPES"
+      ], 
+      "title": "Red Wine Hot Chocolate Is a Thing, and It\u2019s (Surprisingly) Delicious", 
+      "url": "http://www.nytimes.com/2016/12/19/dining/red-wine-hot-chocolate.html", 
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/17/dining/17chocolate2_xp/17chocolate2_xp-square320.jpg", 
+              "width": 320, 
+              "height": 320, 
+              "format": "square320"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/17/dining/17chocolate2_xp/17chocolate2_xp-thumbStandard.jpg", 
+              "width": 75, 
+              "height": 75, 
+              "format": "Standard Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/17/dining/17chocolate2_xp/17chocolate2_xp-articleInline.jpg", 
+              "width": 190, 
+              "height": 127, 
+              "format": "Normal"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/17/dining/17chocolate2_xp/17chocolate2_xp-sfSpan.jpg", 
+              "width": 395, 
+              "height": 263, 
+              "format": "Large"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/17/dining/17chocolate2_xp/17chocolate2_xp-jumbo.jpg", 
+              "width": 1024, 
+              "height": 683, 
+              "format": "Jumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/17/dining/17chocolate2_xp/17chocolate2_xp-superJumbo.jpg", 
+              "width": 2048, 
+              "height": 1365, 
+              "format": "superJumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/17/dining/17chocolate2_xp/17chocolate2_xp-square640.jpg", 
+              "width": 640, 
+              "height": 640, 
+              "format": "square640"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/17/dining/17chocolate2_xp/17chocolate2_xp-thumbLarge.jpg", 
+              "width": 150, 
+              "height": 150, 
+              "format": "Large Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/17/dining/17chocolate2_xp/17chocolate2_xp-mediumThreeByTwo210.jpg", 
+              "width": 210, 
+              "height": 140, 
+              "format": "mediumThreeByTwo210"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/17/dining/17chocolate2_xp/17chocolate2_xp-mediumThreeByTwo440.jpg", 
+              "width": 440, 
+              "height": 293, 
+              "format": "mediumThreeByTwo440"
+            }
+          ], 
+          "subtype": "photo", 
+          "type": "image", 
+          "copyright": "Erin McCann/The New York Times", 
+          "caption": "The finished hot chocolate red wine, topped with marshmallows."
+        }
+      ], 
+      "section": "Food", 
+      "views": 3, 
+      "id": 100000004773477, 
+      "column": "", 
+      "geo_facet": "", 
+      "adx_keywords": "Wines;Chocolate;Recipes", 
+      "source": "The New York Times", 
+      "org_facet": "", 
+      "published_date": "2016-12-19", 
+      "per_facet": "", 
+      "type": "Article", 
+      "abstract": "Wine is good. Hot chocolate is good. But together? It turned out to be pretty great."
+    }, 
+    {
+      "asset_id": 100000004831140, 
+      "byline": "By DAVID LEONHARDT", 
+      "des_facet": [
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ], 
+      "title": "Democrats Had a Knife, and the G.O.P. Had a Gun", 
+      "url": "http://www.nytimes.com/2016/12/20/opinion/democrats-had-a-knife-and-the-gop-had-a-gun.html", 
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/opinion/20leonhardtWeb/20leonhardtWeb-square320.jpg", 
+              "width": 320, 
+              "height": 320, 
+              "format": "square320"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/opinion/20leonhardtWeb/20leonhardtWeb-thumbStandard.jpg", 
+              "width": 75, 
+              "height": 75, 
+              "format": "Standard Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/opinion/20leonhardtWeb/20leonhardtWeb-articleInline.jpg", 
+              "width": 190, 
+              "height": 124, 
+              "format": "Normal"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/opinion/20leonhardtWeb/20leonhardtWeb-sfSpan.jpg", 
+              "width": 395, 
+              "height": 263, 
+              "format": "Large"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/opinion/20leonhardtWeb/20leonhardtWeb-jumbo.jpg", 
+              "width": 1024, 
+              "height": 667, 
+              "format": "Jumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/opinion/20leonhardtWeb/20leonhardtWeb-superJumbo.jpg", 
+              "width": 2048, 
+              "height": 1334, 
+              "format": "superJumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/opinion/20leonhardtWeb/20leonhardtWeb-square640.jpg", 
+              "width": 640, 
+              "height": 640, 
+              "format": "square640"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/opinion/20leonhardtWeb/20leonhardtWeb-thumbLarge.jpg", 
+              "width": 150, 
+              "height": 150, 
+              "format": "Large Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/opinion/20leonhardtWeb/20leonhardtWeb-mediumThreeByTwo210.jpg", 
+              "width": 210, 
+              "height": 140, 
+              "format": "mediumThreeByTwo210"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/opinion/20leonhardtWeb/20leonhardtWeb-mediumThreeByTwo440.jpg", 
+              "width": 440, 
+              "height": 293, 
+              "format": "mediumThreeByTwo440"
+            }
+          ], 
+          "subtype": "photo", 
+          "type": "image", 
+          "copyright": "Gerry Broome/Associated Press", 
+          "caption": "Protesters during a special session of the North Carolina Legislature last week."
+        }
+      ], 
+      "section": "Opinion", 
+      "views": 4, 
+      "id": 100000004831140, 
+      "column": "Op-Ed Columnist", 
+      "geo_facet": [
+        "NORTH CAROLINA"
+      ], 
+      "adx_keywords": "McCrory, Pat;Obama, Barack;Trump, Donald J;Democratic Party;Republican Party;North Carolina;Central Intelligence Agency;United States Politics and Government", 
+      "source": "The New York Times", 
+      "org_facet": [
+        "DEMOCRATIC PARTY", 
+        "REPUBLICAN PARTY", 
+        "CENTRAL INTELLIGENCE AGENCY"
+      ], 
+      "published_date": "2016-12-20", 
+      "per_facet": [
+        "MCCRORY, PAT", 
+        "OBAMA, BARACK", 
+        "TRUMP, DONALD J"
+      ], 
+      "type": "Article", 
+      "abstract": "Compare President Obama\u2019s treatment of Donald Trump to Pat McCrory\u2019s behavior in North Carolina."
+    }, 
+    {
+      "asset_id": 100000004829609, 
+      "byline": "By KAREN L. COX", 
+      "des_facet": [
+        "STATE LEGISLATURES", 
+        "POLITICS AND GOVERNMENT"
+      ], 
+      "title": "What\u2019s the Matter With North Carolina?", 
+      "url": "http://www.nytimes.com/2016/12/19/opinion/whats-the-matter-with-north-carolina.html", 
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/opinion/20cox/20cox-square320.jpg", 
+              "width": 320, 
+              "height": 320, 
+              "format": "square320"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/opinion/20cox/20cox-thumbStandard.jpg", 
+              "width": 75, 
+              "height": 75, 
+              "format": "Standard Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/opinion/20cox/20cox-articleInline.jpg", 
+              "width": 190, 
+              "height": 190, 
+              "format": "Normal"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/opinion/20cox/20cox-sfSpan.jpg", 
+              "width": 395, 
+              "height": 395, 
+              "format": "Large"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/opinion/20cox/20cox-jumbo.jpg", 
+              "width": 1024, 
+              "height": 1024, 
+              "format": "Jumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/opinion/20cox/20cox-superJumbo.jpg", 
+              "width": 1797, 
+              "height": 1797, 
+              "format": "superJumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/opinion/20cox/20cox-square640.jpg", 
+              "width": 640, 
+              "height": 640, 
+              "format": "square640"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/opinion/20cox/20cox-thumbLarge.jpg", 
+              "width": 150, 
+              "height": 150, 
+              "format": "Large Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/opinion/20cox/20cox-mediumThreeByTwo210.jpg", 
+              "width": 210, 
+              "height": 140, 
+              "format": "mediumThreeByTwo210"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/opinion/20cox/20cox-mediumThreeByTwo440.jpg", 
+              "width": 440, 
+              "height": 293, 
+              "format": "mediumThreeByTwo440"
+            }
+          ], 
+          "subtype": "photo", 
+          "type": "image", 
+          "copyright": "Victor Kerlow", 
+          "caption": ""
+        }
+      ], 
+      "section": "Opinion", 
+      "views": 5, 
+      "id": 100000004829609, 
+      "column": "Op-Ed Contributor", 
+      "geo_facet": [
+        "NORTH CAROLINA"
+      ], 
+      "adx_keywords": "North Carolina;State Legislatures;Cooper, Roy A;McCrory, Pat;Politics and Government;United States Politics and Government;Republican Party;Helms, Jesse", 
+      "source": "The New York Times", 
+      "org_facet": [
+        "REPUBLICAN PARTY"
+      ], 
+      "published_date": "2016-12-19", 
+      "per_facet": [
+        "COOPER, ROY A", 
+        "MCCRORY, PAT", 
+        "HELMS, JESSE"
+      ], 
+      "type": "Article", 
+      "abstract": "My state was once a bastion of Southern progressivism. Now it\u2019s a battleground in the war of urban versus rural voters."
+    }, 
+    {
+      "asset_id": 100000004831439, 
+      "byline": "By VINDU GOEL", 
+      "des_facet": [
+        "ONLINE ADVERTISING"
+      ], 
+      "title": "Russian Cyberforgers Steal Millions a Day With Fake Sites", 
+      "url": "http://www.nytimes.com/2016/12/20/technology/forgers-use-fake-web-users-to-steal-real-ad-revenue.html", 
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/business/21ADFRAUD/21ADFRAUD-square320.jpg", 
+              "width": 320, 
+              "height": 320, 
+              "format": "square320"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/business/21ADFRAUD/21ADFRAUD-thumbStandard.jpg", 
+              "width": 75, 
+              "height": 75, 
+              "format": "Standard Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/business/21ADFRAUD/21ADFRAUD-articleInline.jpg", 
+              "width": 190, 
+              "height": 131, 
+              "format": "Normal"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/business/21ADFRAUD/21ADFRAUD-sfSpan.jpg", 
+              "width": 395, 
+              "height": 263, 
+              "format": "Large"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/business/21ADFRAUD/21ADFRAUD-jumbo.jpg", 
+              "width": 1024, 
+              "height": 704, 
+              "format": "Jumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/business/21ADFRAUD/21ADFRAUD-superJumbo.jpg", 
+              "width": 2048, 
+              "height": 1409, 
+              "format": "superJumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/business/21ADFRAUD/21ADFRAUD-square640.jpg", 
+              "width": 640, 
+              "height": 640, 
+              "format": "square640"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/business/21ADFRAUD/21ADFRAUD-thumbLarge.jpg", 
+              "width": 150, 
+              "height": 150, 
+              "format": "Large Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/business/21ADFRAUD/21ADFRAUD-mediumThreeByTwo210.jpg", 
+              "width": 210, 
+              "height": 140, 
+              "format": "mediumThreeByTwo210"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/business/21ADFRAUD/21ADFRAUD-mediumThreeByTwo440.jpg", 
+              "width": 440, 
+              "height": 293, 
+              "format": "mediumThreeByTwo440"
+            }
+          ], 
+          "subtype": "photo", 
+          "type": "image", 
+          "copyright": "Kevin Hagen for The New York Times", 
+          "caption": "Michael Tiffany, center, chief executive of the computer security firm White Ops, said of a Russian cyberforgery ring: &ldquo;Our adversaries are bringing whole new levels of innovation to ad fraud.&rdquo;"
+        }
+      ], 
+      "section": "Technology", 
+      "views": 6, 
+      "id": 100000004831439, 
+      "column": "", 
+      "geo_facet": [
+        "RUSSIA"
+      ], 
+      "adx_keywords": "Online Advertising;News and News Media;Frauds and Swindling;Russia", 
+      "source": "The New York Times", 
+      "org_facet": "", 
+      "published_date": "2016-12-20", 
+      "per_facet": "", 
+      "type": "Article", 
+      "abstract": "A criminal ring is diverting as much as $5 million in advertising revenue a day in a scheme to show video ads to phantom internet users."
+    }, 
+    {
+      "asset_id": 100000004831370, 
+      "byline": "By LIZ SPAYD", 
+      "des_facet": [
+        "CIVILIAN CASUALTIES", 
+        "PHOTOGRAPHY"
+      ], 
+      "title": "Why\u2019d You Do That? Running a Photo of a Killer on the Home Page", 
+      "url": "http://www.nytimes.com/2016/12/19/public-editor/whyd-you-do-that-running-a-photo-of-a-killer-on-the-home-page.html", 
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/world/20TURKEY-WEB5-pubed/20TURKEY-WEB5-pubed-square320-v3.jpg", 
+              "width": 320, 
+              "height": 320, 
+              "format": "square320"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/world/20TURKEY-WEB5-pubed/20TURKEY-WEB5-thumbStandard.jpg", 
+              "width": 75, 
+              "height": 75, 
+              "format": "Standard Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/world/20TURKEY-WEB5-pubed/20TURKEY-WEB5-articleInline.jpg", 
+              "width": 190, 
+              "height": 259, 
+              "format": "Normal"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/world/20TURKEY-WEB5-pubed/20TURKEY-WEB5-sfSpan-v3.jpg", 
+              "width": 395, 
+              "height": 516, 
+              "format": "Large"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/world/20TURKEY-WEB5-pubed/20TURKEY-WEB5-jumbo.jpg", 
+              "width": 750, 
+              "height": 1024, 
+              "format": "Jumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/world/20TURKEY-WEB5-pubed/20TURKEY-WEB5-superJumbo.jpg", 
+              "width": 1500, 
+              "height": 2048, 
+              "format": "superJumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/world/20TURKEY-WEB5-pubed/20TURKEY-WEB5-pubed-square640-v3.jpg", 
+              "width": 640, 
+              "height": 640, 
+              "format": "square640"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/world/20TURKEY-WEB5-pubed/20TURKEY-WEB5-thumbLarge.jpg", 
+              "width": 150, 
+              "height": 150, 
+              "format": "Large Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/world/20TURKEY-WEB5-pubed/20TURKEY-WEB5-mediumThreeByTwo210.jpg", 
+              "width": 210, 
+              "height": 140, 
+              "format": "mediumThreeByTwo210"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/world/20TURKEY-WEB5-pubed/20TURKEY-WEB5-mediumThreeByTwo440.jpg", 
+              "width": 440, 
+              "height": 293, 
+              "format": "mediumThreeByTwo440"
+            }
+          ], 
+          "subtype": "photo", 
+          "type": "image", 
+          "copyright": "Burhan Ozbilici/Associated Press", 
+          "caption": "The Times ran this photograph of the gunman after he shot the Russian ambassador to Turkey, right, on its home page on Monday."
+        }
+      ], 
+      "section": "Public Editor", 
+      "views": 7, 
+      "id": 100000004831370, 
+      "column": "The Public Editor", 
+      "geo_facet": [
+        "ANKARA (TURKEY)"
+      ], 
+      "adx_keywords": "Civilian Casualties;Photography;New York Times;Ankara (Turkey)", 
+      "source": "The New York Times", 
+      "org_facet": [
+        "NEW YORK TIMES"
+      ], 
+      "published_date": "2016-12-19", 
+      "per_facet": "", 
+      "type": "Article", 
+      "abstract": "The Times\u2019s standards editor, Phil Corbett, discusses the publication of an image of a gunman standing beside the dead body of Russia\u2019s ambassador to Turkey."
+    }, 
+    {
+      "asset_id": 100000004830396, 
+      "byline": "By CHRISTINE HAUSER", 
+      "des_facet": [
+        "JEWS AND JUDAISM"
+      ], 
+      "title": "After Neo-Nazi Posting, Police in Whitefish, Mont., Step Up Patrols", 
+      "url": "http://www.nytimes.com/2016/12/20/us/whitefish-montana-jews-daily-stormer.html", 
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/19/us/20xp-whitefish/20xp-whitefish-square320.jpg", 
+              "width": 320, 
+              "height": 320, 
+              "format": "square320"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/19/us/20xp-whitefish/20xp-whitefish-thumbStandard.jpg", 
+              "width": 75, 
+              "height": 75, 
+              "format": "Standard Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/19/us/20xp-whitefish/20xp-whitefish-articleInline.jpg", 
+              "width": 190, 
+              "height": 126, 
+              "format": "Normal"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/19/us/20xp-whitefish/20xp-whitefish-sfSpan.jpg", 
+              "width": 395, 
+              "height": 263, 
+              "format": "Large"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/19/us/20xp-whitefish/20xp-whitefish-jumbo.jpg", 
+              "width": 1024, 
+              "height": 684, 
+              "format": "Jumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/19/us/20xp-whitefish/20xp-whitefish-superJumbo.jpg", 
+              "width": 2048, 
+              "height": 1367, 
+              "format": "superJumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/19/us/20xp-whitefish/20xp-whitefish-square640.jpg", 
+              "width": 640, 
+              "height": 640, 
+              "format": "square640"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/19/us/20xp-whitefish/20xp-whitefish-thumbLarge.jpg", 
+              "width": 150, 
+              "height": 150, 
+              "format": "Large Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/19/us/20xp-whitefish/20xp-whitefish-mediumThreeByTwo210.jpg", 
+              "width": 210, 
+              "height": 140, 
+              "format": "mediumThreeByTwo210"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/19/us/20xp-whitefish/20xp-whitefish-mediumThreeByTwo440.jpg", 
+              "width": 440, 
+              "height": 293, 
+              "format": "mediumThreeByTwo440"
+            }
+          ], 
+          "subtype": "photo", 
+          "type": "image", 
+          "copyright": "Tim Goessman for The New York Times", 
+          "caption": "The white nationalist Richard Spencer in Whitefish, Mont., in June."
+        }
+      ], 
+      "section": "U.S.", 
+      "views": 8, 
+      "id": 100000004830396, 
+      "column": "", 
+      "geo_facet": [
+        "WHITEFISH (MONT)", 
+        "MONTANA"
+      ], 
+      "adx_keywords": "Jews and Judaism;Fringe Groups and Movements;Twitter;Spencer, Richard B (1978- );Whitefish (Mont);Southern Poverty Law Center;Montana", 
+      "source": "The New York Times", 
+      "org_facet": [
+        "TWITTER", 
+        "SOUTHERN POVERTY LAW CENTER"
+      ], 
+      "published_date": "2016-12-20", 
+      "per_facet": [
+        "SPENCER, RICHARD B (1978- )"
+      ], 
+      "type": "Article", 
+      "abstract": "A white supremacist site listed the names of local Jews and their contact information, claiming they had harassed the mother of a white nationalist leader."
+    }, 
+    {
+      "asset_id": 100000004831125, 
+      "byline": "By GREGOR AISCH, K.K. REBECCA LAI, SARAH ALMUKHTAR and SERGIO PE\u00c7ANHA", 
+      "des_facet": [
+        "TERRORISM"
+      ], 
+      "title": "The Truck\u2019s Path Through a Crowded Christmas Market in Berlin", 
+      "url": "http://www.nytimes.com/interactive/2016/12/19/world/europe/berlin-truck-christmas-market.html", 
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/19/world/europe/berlin-truck-christmas-market-1482188385036/berlin-truck-christmas-market-1482188385036-square320-v3.jpg", 
+              "width": 320, 
+              "height": 320, 
+              "format": "square320"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/19/world/europe/berlin-truck-christmas-market-1482188385036/berlin-truck-christmas-market-1482188385036-thumbStandard-v3.jpg", 
+              "width": 75, 
+              "height": 75, 
+              "format": "Standard Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/19/world/europe/berlin-truck-christmas-market-1482188385036/berlin-truck-christmas-market-1482188385036-articleInline-v2.jpg", 
+              "width": 190, 
+              "height": 127, 
+              "format": "Normal"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/19/world/europe/berlin-truck-christmas-market-1482188385036/berlin-truck-christmas-market-1482188385036-sfSpan-v2.jpg", 
+              "width": 395, 
+              "height": 263, 
+              "format": "Large"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/19/world/europe/berlin-truck-christmas-market-1482188385036/berlin-truck-christmas-market-1482188385036-jumbo-v2.jpg", 
+              "width": 1024, 
+              "height": 683, 
+              "format": "Jumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/19/world/europe/berlin-truck-christmas-market-1482188385036/berlin-truck-christmas-market-1482188385036-superJumbo-v2.jpg", 
+              "width": 2048, 
+              "height": 1365, 
+              "format": "superJumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/19/world/europe/berlin-truck-christmas-market-1482188385036/berlin-truck-christmas-market-1482188385036-square640-v3.jpg", 
+              "width": 640, 
+              "height": 640, 
+              "format": "square640"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/19/world/europe/berlin-truck-christmas-market-1482188385036/berlin-truck-christmas-market-1482188385036-thumbLarge-v3.jpg", 
+              "width": 150, 
+              "height": 150, 
+              "format": "Large Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/19/world/europe/berlin-truck-christmas-market-1482188385036/berlin-truck-christmas-market-1482188385036-mediumThreeByTwo210-v3.jpg", 
+              "width": 210, 
+              "height": 140, 
+              "format": "mediumThreeByTwo210"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/19/world/europe/berlin-truck-christmas-market-1482188385036/berlin-truck-christmas-market-1482188385036-mediumThreeByTwo440-v3.jpg", 
+              "width": 440, 
+              "height": 293, 
+              "format": "mediumThreeByTwo440"
+            }
+          ], 
+          "subtype": "photo", 
+          "type": "image", 
+          "copyright": "", 
+          "caption": ""
+        }
+      ], 
+      "section": "World", 
+      "views": 9, 
+      "id": 100000004831125, 
+      "column": "", 
+      "geo_facet": [
+        "BERLIN (GERMANY)"
+      ], 
+      "adx_keywords": "", 
+      "source": "The New York Times", 
+      "org_facet": "", 
+      "published_date": "2016-12-19", 
+      "per_facet": "", 
+      "type": "Interactive", 
+      "abstract": "The truck could be seen afterward on one edge of the market after having traveled about 250 feet through stalls and shoppers."
+    }, 
+    {
+      "asset_id": 100000004820686, 
+      "byline": "", 
+      "des_facet": "", 
+      "title": "The Year in Reading", 
+      "url": "http://www.nytimes.com/interactive/2016/12/19/books/review/25year-in-reading.html", 
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/25/books/review/1225-BKS-COver-SUB01/1225-BKS-COver-SUB01-square320.jpg", 
+              "width": 320, 
+              "height": 320, 
+              "format": "square320"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/25/books/review/1225-BKS-COver-SUB01/1225-BKS-COver-SUB01-thumbStandard.jpg", 
+              "width": 75, 
+              "height": 75, 
+              "format": "Standard Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/25/books/review/1225-BKS-COver-SUB01/1225-BKS-COver-SUB01-articleInline.jpg", 
+              "width": 190, 
+              "height": 207, 
+              "format": "Normal"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/25/books/review/1225-BKS-COver-SUB01/1225-BKS-COver-SUB01-sfSpan.jpg", 
+              "width": 395, 
+              "height": 263, 
+              "format": "Large"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/25/books/review/1225-BKS-COver-SUB01/1225-BKS-COver-SUB01-jumbo.jpg", 
+              "width": 941, 
+              "height": 1024, 
+              "format": "Jumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/25/books/review/1225-BKS-COver-SUB01/1225-BKS-COver-SUB01-superJumbo.jpg", 
+              "width": 1881, 
+              "height": 2048, 
+              "format": "superJumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/25/books/review/1225-BKS-COver-SUB01/1225-BKS-COver-SUB01-square640.jpg", 
+              "width": 640, 
+              "height": 640, 
+              "format": "square640"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/25/books/review/1225-BKS-COver-SUB01/1225-BKS-COver-SUB01-thumbLarge.jpg", 
+              "width": 150, 
+              "height": 150, 
+              "format": "Large Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/25/books/review/1225-BKS-COver-SUB01/1225-BKS-COver-SUB01-mediumThreeByTwo210.jpg", 
+              "width": 210, 
+              "height": 140, 
+              "format": "mediumThreeByTwo210"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/25/books/review/1225-BKS-COver-SUB01/1225-BKS-COver-SUB01-mediumThreeByTwo440.jpg", 
+              "width": 440, 
+              "height": 293, 
+              "format": "mediumThreeByTwo440"
+            }
+          ], 
+          "subtype": "photo", 
+          "type": "image", 
+          "copyright": "Stephen Doyle", 
+          "caption": ""
+        }
+      ], 
+      "section": "Books", 
+      "views": 10, 
+      "id": 100000004820686, 
+      "column": "", 
+      "geo_facet": "", 
+      "adx_keywords": "", 
+      "source": "The New York Times", 
+      "org_facet": "", 
+      "published_date": "2016-12-19", 
+      "per_facet": "", 
+      "type": "Interactive", 
+      "abstract": "In this season of giving, we asked some notably avid readers \u2014 who also happen to be poets, musicians, diplomats, filmmakers, novelists, actors and artists \u2014 to share the books that accompanied them through 2016."
+    }, 
+    {
+      "asset_id": 100000004832935, 
+      "byline": "By MIKE ISAAC", 
+      "des_facet": [
+        "SOCIAL MEDIA"
+      ], 
+      "title": "Twitter\u2019s Chief Technology Officer to Leave Company", 
+      "url": "http://www.nytimes.com/2016/12/20/technology/twitters-chief-technology-officer-to-leave-company.html", 
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/business/21TWITTER/21TWITTER-square320.jpg", 
+              "width": 320, 
+              "height": 320, 
+              "format": "square320"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/business/21TWITTER/21TWITTER-thumbStandard.jpg", 
+              "width": 75, 
+              "height": 75, 
+              "format": "Standard Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/business/21TWITTER/21TWITTER-articleInline.jpg", 
+              "width": 190, 
+              "height": 127, 
+              "format": "Normal"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/business/21TWITTER/21TWITTER-sfSpan.jpg", 
+              "width": 395, 
+              "height": 263, 
+              "format": "Large"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/business/21TWITTER/21TWITTER-jumbo.jpg", 
+              "width": 1024, 
+              "height": 683, 
+              "format": "Jumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/business/21TWITTER/21TWITTER-superJumbo.jpg", 
+              "width": 2048, 
+              "height": 1365, 
+              "format": "superJumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/business/21TWITTER/21TWITTER-square640.jpg", 
+              "width": 640, 
+              "height": 640, 
+              "format": "square640"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/business/21TWITTER/21TWITTER-thumbLarge.jpg", 
+              "width": 150, 
+              "height": 150, 
+              "format": "Large Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/business/21TWITTER/21TWITTER-mediumThreeByTwo210.jpg", 
+              "width": 210, 
+              "height": 140, 
+              "format": "mediumThreeByTwo210"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/business/21TWITTER/21TWITTER-mediumThreeByTwo440.jpg", 
+              "width": 440, 
+              "height": 293, 
+              "format": "mediumThreeByTwo440"
+            }
+          ], 
+          "subtype": "photo", 
+          "type": "image", 
+          "copyright": "Carlo Allegri/Reuters", 
+          "caption": "Adam Messinger, chief technology officer of Twitter, in 2013."
+        }
+      ], 
+      "section": "Technology", 
+      "views": 11, 
+      "id": 100000004832935, 
+      "column": "", 
+      "geo_facet": "", 
+      "adx_keywords": "Social Media;Twitter;Dorsey, Jack;Bain, Adam M (1973- );Messinger, Adam", 
+      "source": "The New York Times", 
+      "org_facet": [
+        "TWITTER"
+      ], 
+      "published_date": "2016-12-20", 
+      "per_facet": [
+        "DORSEY, JACK", 
+        "BAIN, ADAM M (1973- )", 
+        "MESSINGER, ADAM"
+      ], 
+      "type": "Article", 
+      "abstract": "The company\u2019s executive exodus is continuing with the loss of Adam Messinger, who joined Twitter in 2011."
+    }, 
+    {
+      "asset_id": 100000004830879, 
+      "byline": "By ANAHAD O\u2019CONNOR", 
+      "des_facet": [
+        "SUGAR", 
+        "FOOD", 
+        "SOFT DRINKS"
+      ], 
+      "title": "Study Tied to Food Industry Tries to Discredit Sugar Guidelines", 
+      "url": "http://www.nytimes.com/2016/12/19/well/eat/a-food-industry-study-tries-to-discredit-advice-about-sugar.html", 
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/business/20SUGARJP/20SUGARJP-square320-v2.jpg", 
+              "width": 320, 
+              "height": 320, 
+              "format": "square320"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/business/20SUGARJP/20SUGARJP-thumbStandard-v2.jpg", 
+              "width": 75, 
+              "height": 75, 
+              "format": "Standard Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/business/20SUGARJP/20SUGARJP-articleInline.jpg", 
+              "width": 190, 
+              "height": 127, 
+              "format": "Normal"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/business/20SUGARJP/20SUGARJP-sfSpan.jpg", 
+              "width": 395, 
+              "height": 263, 
+              "format": "Large"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/business/20SUGARJP/20SUGARJP-jumbo.jpg", 
+              "width": 1024, 
+              "height": 683, 
+              "format": "Jumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/business/20SUGARJP/20SUGARJP-superJumbo.jpg", 
+              "width": 2048, 
+              "height": 1365, 
+              "format": "superJumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/business/20SUGARJP/20SUGARJP-square640-v2.jpg", 
+              "width": 640, 
+              "height": 640, 
+              "format": "square640"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/business/20SUGARJP/20SUGARJP-thumbLarge-v2.jpg", 
+              "width": 150, 
+              "height": 150, 
+              "format": "Large Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/business/20SUGARJP/20SUGARJP-mediumThreeByTwo210.jpg", 
+              "width": 210, 
+              "height": 140, 
+              "format": "mediumThreeByTwo210"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/business/20SUGARJP/20SUGARJP-mediumThreeByTwo440.jpg", 
+              "width": 440, 
+              "height": 293, 
+              "format": "mediumThreeByTwo440"
+            }
+          ], 
+          "subtype": "photo", 
+          "type": "image", 
+          "copyright": "Dave Sanders for The New York Times", 
+          "caption": "Roshaunda Frazier, left, shopped for Vitaminwater with her cousin Bettye Harper in Brooklyn. Health groups have urged people to consume fewer sugary drinks."
+        }
+      ], 
+      "section": "Well", 
+      "views": 12, 
+      "id": 100000004830879, 
+      "column": "", 
+      "geo_facet": "", 
+      "adx_keywords": "Sugar;Food;Annals of Internal Medicine;Soft Drinks;Diet and Nutrition;Obesity;International Life Sciences Institute", 
+      "source": "The New York Times", 
+      "org_facet": [
+        "ANNALS OF INTERNAL MEDICINE", 
+        "INTERNATIONAL LIFE SCIENCES INSTITUTE"
+      ], 
+      "published_date": "2016-12-19", 
+      "per_facet": "", 
+      "type": "Article", 
+      "abstract": "Critics say the review, a scathing attack on recommendations to eat less sugar, is the latest in a series of efforts by the food industry to shape global nutrition advice."
+    }, 
+    {
+      "asset_id": 100000004833633, 
+      "byline": "By BEN HUBBARD and DAVID E. SANGER", 
+      "des_facet": "", 
+      "title": "Russia, Iran and Turkey Meet for Syria Talks, Excluding U.S.", 
+      "url": "http://www.nytimes.com/2016/12/20/world/middleeast/russia-iran-and-turkey-meet-for-syria-talks-excluding-us.html", 
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/world/21SYRIA/21SYRIA-square320-v2.jpg", 
+              "width": 320, 
+              "height": 320, 
+              "format": "square320"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/world/21SYRIA/21SYRIA-thumbStandard-v2.jpg", 
+              "width": 75, 
+              "height": 75, 
+              "format": "Standard Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/world/21SYRIA/21SYRIA-articleInline.jpg", 
+              "width": 190, 
+              "height": 127, 
+              "format": "Normal"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/world/21SYRIA/21SYRIA-sfSpan.jpg", 
+              "width": 395, 
+              "height": 263, 
+              "format": "Large"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/world/21SYRIA/21SYRIA-jumbo.jpg", 
+              "width": 1024, 
+              "height": 683, 
+              "format": "Jumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/world/21SYRIA/21SYRIA-superJumbo.jpg", 
+              "width": 2048, 
+              "height": 1366, 
+              "format": "superJumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/world/21SYRIA/21SYRIA-square640-v2.jpg", 
+              "width": 640, 
+              "height": 640, 
+              "format": "square640"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/world/21SYRIA/21SYRIA-thumbLarge-v2.jpg", 
+              "width": 150, 
+              "height": 150, 
+              "format": "Large Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/world/21SYRIA/21SYRIA-mediumThreeByTwo210.jpg", 
+              "width": 210, 
+              "height": 140, 
+              "format": "mediumThreeByTwo210"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/world/21SYRIA/21SYRIA-mediumThreeByTwo440.jpg", 
+              "width": 440, 
+              "height": 293, 
+              "format": "mediumThreeByTwo440"
+            }
+          ], 
+          "subtype": "photo", 
+          "type": "image", 
+          "copyright": "Natalia Kolesnikova/Agence France-Presse &mdash; Getty Images", 
+          "caption": "From left, the foreign ministers Mohammad Javad Zarif of Iran, Sergey V. Lavrov of Russia and Mevlut Cavusoglu of Turkey on Tuesday in Moscow."
+        }
+      ], 
+      "section": "World", 
+      "views": 13, 
+      "id": 100000004833633, 
+      "column": "", 
+      "geo_facet": [
+        "SYRIA", 
+        "RUSSIA", 
+        "IRAN", 
+        "TURKEY", 
+        "UNITED STATES"
+      ], 
+      "adx_keywords": "Syria;International Relations;Russia;Iran;Turkey;Assad, Bashar al-;United States", 
+      "source": "The New York Times", 
+      "org_facet": "", 
+      "published_date": "2016-12-20", 
+      "per_facet": [
+        "ASSAD, BASHAR AL-"
+      ], 
+      "type": "Article", 
+      "abstract": "The new alignment and the absence of any Western powers at the table all but guarantee that President Bashar al-Assad will continue to rule Syria under any resulting agreement."
+    }, 
+    {
+      "asset_id": 100000004832486, 
+      "byline": "By THE NEW YORK TIMES", 
+      "des_facet": "", 
+      "title": "Trump Slaps Back at Bill Clinton and Links Three Attacks to Terrorism", 
+      "url": "http://www.nytimes.com/2016/12/20/us/politics/donald-trump-transition.html", 
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/us/21transitionbriefing/21transitionbriefing-square320.jpg", 
+              "width": 320, 
+              "height": 320, 
+              "format": "square320"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/us/21transitionbriefing/21transitionbriefing-thumbStandard.jpg", 
+              "width": 75, 
+              "height": 75, 
+              "format": "Standard Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/us/21transitionbriefing/21transitionbriefing-articleInline.jpg", 
+              "width": 190, 
+              "height": 127, 
+              "format": "Normal"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/us/21transitionbriefing/21transitionbriefing-sfSpan.jpg", 
+              "width": 395, 
+              "height": 263, 
+              "format": "Large"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/us/21transitionbriefing/21transitionbriefing-jumbo.jpg", 
+              "width": 1024, 
+              "height": 683, 
+              "format": "Jumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/us/21transitionbriefing/21transitionbriefing-superJumbo.jpg", 
+              "width": 2048, 
+              "height": 1365, 
+              "format": "superJumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/us/21transitionbriefing/21transitionbriefing-thumbLarge.jpg", 
+              "width": 150, 
+              "height": 150, 
+              "format": "Large Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/us/21transitionbriefing/21transitionbriefing-mediumThreeByTwo210.jpg", 
+              "width": 210, 
+              "height": 140, 
+              "format": "mediumThreeByTwo210"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/us/21transitionbriefing/21transitionbriefing-mediumThreeByTwo440.jpg", 
+              "width": 440, 
+              "height": 293, 
+              "format": "mediumThreeByTwo440"
+            }
+          ], 
+          "subtype": "photo", 
+          "type": "image", 
+          "copyright": "Andrew Harnik/Associated Press", 
+          "caption": "President-elect Donald J. Trump spoke with Reince Priebus, his incoming White House chief of staff, at the Mar-a-Lago resort in Palm Beach, Fla., on Monday."
+        }
+      ], 
+      "section": "U.S.", 
+      "views": 14, 
+      "id": 100000004832486, 
+      "column": "Transition Briefing", 
+      "geo_facet": "", 
+      "adx_keywords": "Trump, Donald J", 
+      "source": "The New York Times", 
+      "org_facet": "", 
+      "published_date": "2016-12-20", 
+      "per_facet": [
+        "TRUMP, DONALD J"
+      ], 
+      "type": "Article", 
+      "abstract": "President-elect Donald J. Trump criticized former President Bill Clinton and drew conclusions about Monday\u2019s attacks. And, Trump voters really are different from traditional conservatives."
+    }, 
+    {
+      "asset_id": 100000004830310, 
+      "byline": "By IVAN NECHEPURENKO", 
+      "des_facet": [
+        "ALCOHOLIC BEVERAGES", 
+        "POISONING AND POISONS", 
+        "DEATHS (FATALITIES)"
+      ], 
+      "title": "In Russia, Dozens Die After Drinking Alcohol Substitute", 
+      "url": "http://www.nytimes.com/2016/12/19/world/europe/russia-bath-lotion-deaths.html", 
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/world/20poison-still/20poison-still-square320.jpg", 
+              "width": 320, 
+              "height": 320, 
+              "format": "square320"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/world/20poison-still/20poison-still-thumbStandard.jpg", 
+              "width": 75, 
+              "height": 75, 
+              "format": "Standard Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/world/20poison-still/20poison-still-articleInline.jpg", 
+              "width": 190, 
+              "height": 107, 
+              "format": "Normal"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/world/20poison-still/20poison-still-sfSpan.jpg", 
+              "width": 395, 
+              "height": 263, 
+              "format": "Large"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/world/20poison-still/20poison-still-jumbo.jpg", 
+              "width": 1024, 
+              "height": 576, 
+              "format": "Jumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/world/20poison-still/20poison-still-superJumbo.jpg", 
+              "width": 1920, 
+              "height": 1080, 
+              "format": "superJumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/world/20poison-still/20poison-still-square640.jpg", 
+              "width": 640, 
+              "height": 640, 
+              "format": "square640"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/world/20poison-still/20poison-still-thumbLarge.jpg", 
+              "width": 150, 
+              "height": 150, 
+              "format": "Large Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/world/20poison-still/20poison-still-mediumThreeByTwo210.jpg", 
+              "width": 210, 
+              "height": 140, 
+              "format": "mediumThreeByTwo210"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/world/20poison-still/20poison-still-mediumThreeByTwo440.jpg", 
+              "width": 440, 
+              "height": 293, 
+              "format": "mediumThreeByTwo440"
+            }
+          ], 
+          "subtype": "photo", 
+          "type": "image", 
+          "copyright": null, 
+          "caption": null
+        }
+      ], 
+      "section": "World", 
+      "views": 15, 
+      "id": 100000004830310, 
+      "column": "", 
+      "geo_facet": [
+        "IRKUTSK (RUSSIA)", 
+        "RUSSIA"
+      ], 
+      "adx_keywords": "Alcoholic Beverages;Poisoning and Poisons;Deaths (Fatalities);Irkutsk (Russia);Russia", 
+      "source": "The New York Times", 
+      "org_facet": "", 
+      "published_date": "2016-12-19", 
+      "per_facet": "", 
+      "type": "Article", 
+      "abstract": "The tragedy was a reminder that despite President Putin\u2019s star turn on the world stage, Russia remains in many ways a struggling nation."
+    }, 
+    {
+      "asset_id": 100000004830667, 
+      "byline": "By PATRICK HEALY", 
+      "des_facet": [
+        "RACE AND ETHNICITY", 
+        "MOVIES"
+      ], 
+      "title": "Race, Hollywood and \u2018Doctor Strange\u2019: Margaret Cho and Tilda Swinton, Annotated", 
+      "url": "http://www.nytimes.com/2016/12/20/movies/margaret-cho-tilda-swinton-doctor-strange.html", 
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/arts/20CHO-SWINTON/20CHO-SWINTON-square320.jpg", 
+              "width": 320, 
+              "height": 320, 
+              "format": "square320"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/arts/20CHO-SWINTON/20CHO-SWINTON-thumbStandard.jpg", 
+              "width": 75, 
+              "height": 75, 
+              "format": "Standard Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/arts/20CHO-SWINTON/20CHO-SWINTON-articleInline.jpg", 
+              "width": 190, 
+              "height": 142, 
+              "format": "Normal"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/arts/20CHO-SWINTON/20CHO-SWINTON-sfSpan.jpg", 
+              "width": 395, 
+              "height": 264, 
+              "format": "Large"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/arts/20CHO-SWINTON/20CHO-SWINTON-jumbo.jpg", 
+              "width": 1024, 
+              "height": 763, 
+              "format": "Jumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/arts/20CHO-SWINTON/20CHO-SWINTON-superJumbo.jpg", 
+              "width": 2048, 
+              "height": 1526, 
+              "format": "superJumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/arts/20CHO-SWINTON/20CHO-SWINTON-square640.jpg", 
+              "width": 640, 
+              "height": 640, 
+              "format": "square640"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/arts/20CHO-SWINTON/20CHO-SWINTON-thumbLarge.jpg", 
+              "width": 150, 
+              "height": 150, 
+              "format": "Large Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/arts/20CHO-SWINTON/20CHO-SWINTON-mediumThreeByTwo210.jpg", 
+              "width": 210, 
+              "height": 140, 
+              "format": "mediumThreeByTwo210"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/arts/20CHO-SWINTON/20CHO-SWINTON-mediumThreeByTwo440.jpg", 
+              "width": 440, 
+              "height": 293, 
+              "format": "mediumThreeByTwo440"
+            }
+          ], 
+          "subtype": "photo", 
+          "type": "image", 
+          "copyright": "Imeh Akpanudosen/Getty Images; Cindy Ord/Getty Images", 
+          "caption": "Margaret Cho, left, and Tilda Swinton."
+        }
+      ], 
+      "section": "Movies", 
+      "views": 16, 
+      "id": 100000004830667, 
+      "column": "", 
+      "geo_facet": "", 
+      "adx_keywords": "Cho, Margaret;Swinton, Tilda;Race and Ethnicity;Movies;Doctor Strange (Movie)", 
+      "source": "The New York Times", 
+      "org_facet": "", 
+      "published_date": "2016-12-20", 
+      "per_facet": [
+        "CHO, MARGARET", 
+        "SWINTON, TILDA"
+      ], 
+      "type": "Article", 
+      "abstract": "The back-and-forth email exchange between Ms. Swinton and Ms. Cho offers a rare look at how two actors navigate the freighted issue of race in Hollywood."
+    }, 
+    {
+      "asset_id": 100000004780924, 
+      "byline": "By STEVEN PETROW", 
+      "des_facet": [
+        "MENTAL HEALTH AND DISORDERS", 
+        "DEPRESSION (MENTAL)", 
+        "ANTIDEPRESSANTS", 
+        "ALCOHOLIC BEVERAGES"
+      ], 
+      "title": "Drinking on Antidepressants", 
+      "url": "http://www.nytimes.com/2016/12/20/well/mind/drinking-on-antidepressants.html", 
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/science/20ALCOHOL/20ALCOHOL-square320.jpg", 
+              "width": 320, 
+              "height": 320, 
+              "format": "square320"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/science/20ALCOHOL/20ALCOHOL-thumbStandard.jpg", 
+              "width": 75, 
+              "height": 75, 
+              "format": "Standard Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/science/20ALCOHOL/20ALCOHOL-articleInline.jpg", 
+              "width": 190, 
+              "height": 127, 
+              "format": "Normal"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/science/20ALCOHOL/20ALCOHOL-sfSpan.jpg", 
+              "width": 395, 
+              "height": 263, 
+              "format": "Large"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/science/20ALCOHOL/20ALCOHOL-jumbo.jpg", 
+              "width": 1024, 
+              "height": 683, 
+              "format": "Jumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/science/20ALCOHOL/20ALCOHOL-superJumbo.jpg", 
+              "width": 2048, 
+              "height": 1365, 
+              "format": "superJumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/science/20ALCOHOL/20ALCOHOL-square640.jpg", 
+              "width": 640, 
+              "height": 640, 
+              "format": "square640"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/science/20ALCOHOL/20ALCOHOL-thumbLarge.jpg", 
+              "width": 150, 
+              "height": 150, 
+              "format": "Large Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/science/20ALCOHOL/20ALCOHOL-mediumThreeByTwo210.jpg", 
+              "width": 210, 
+              "height": 140, 
+              "format": "mediumThreeByTwo210"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/science/20ALCOHOL/20ALCOHOL-mediumThreeByTwo440.jpg", 
+              "width": 440, 
+              "height": 293, 
+              "format": "mediumThreeByTwo440"
+            }
+          ], 
+          "subtype": "photo", 
+          "type": "image", 
+          "copyright": "Tony Cenicola/The New York Times", 
+          "caption": ""
+        }
+      ], 
+      "section": "Well", 
+      "views": 17, 
+      "id": 100000004780924, 
+      "column": "", 
+      "geo_facet": "", 
+      "adx_keywords": "Mental Health and Disorders;Depression (Mental);Antidepressants;Psychiatry and Psychiatrists;Alcoholic Beverages", 
+      "source": "The New York Times", 
+      "org_facet": "", 
+      "published_date": "2016-12-20", 
+      "per_facet": "", 
+      "type": "Article", 
+      "abstract": "Is it risky to have a drink or two if you\u2019re taking drugs for depression? Doctors don\u2019t really know."
+    }, 
+    {
+      "asset_id": 100000004832415, 
+      "byline": "By BENJAMIN WEISER and ADAM GOLDMAN", 
+      "des_facet": [
+        "CLASSIFIED INFORMATION AND STATE SECRETS", 
+        "E-MAIL", 
+        "PRESIDENTIAL ELECTION OF 2016"
+      ], 
+      "title": "Unsealed Documents Outline F.B.I.\u2019s Reasoning in Clinton Case", 
+      "url": "http://www.nytimes.com/2016/12/20/nyregion/unsealed-documents-outline-fbis-reasoning-in-clinton-case.html", 
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/nyregion/21HUMA1/21HUMA1-square320.jpg", 
+              "width": 320, 
+              "height": 320, 
+              "format": "square320"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/nyregion/21HUMA1/21HUMA1-thumbStandard.jpg", 
+              "width": 75, 
+              "height": 75, 
+              "format": "Standard Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/nyregion/21HUMA1/21HUMA1-articleInline.jpg", 
+              "width": 190, 
+              "height": 127, 
+              "format": "Normal"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/nyregion/21HUMA1/21HUMA1-sfSpan.jpg", 
+              "width": 395, 
+              "height": 263, 
+              "format": "Large"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/nyregion/21HUMA1/21HUMA1-jumbo.jpg", 
+              "width": 1024, 
+              "height": 683, 
+              "format": "Jumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/nyregion/21HUMA1/21HUMA1-superJumbo.jpg", 
+              "width": 2048, 
+              "height": 1365, 
+              "format": "superJumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/nyregion/21HUMA1/21HUMA1-square640.jpg", 
+              "width": 640, 
+              "height": 640, 
+              "format": "square640"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/nyregion/21HUMA1/21HUMA1-thumbLarge.jpg", 
+              "width": 150, 
+              "height": 150, 
+              "format": "Large Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/nyregion/21HUMA1/21HUMA1-mediumThreeByTwo210.jpg", 
+              "width": 210, 
+              "height": 140, 
+              "format": "mediumThreeByTwo210"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/nyregion/21HUMA1/21HUMA1-mediumThreeByTwo440.jpg", 
+              "width": 440, 
+              "height": 293, 
+              "format": "mediumThreeByTwo440"
+            }
+          ], 
+          "subtype": "photo", 
+          "type": "image", 
+          "copyright": "Doug Mills/The New York Times", 
+          "caption": "An affidavit indicated that Huma Abedin typically communicated with Mrs. Clinton\u2019s email account on a daily basis."
+        }
+      ], 
+      "section": "N.Y. / Region", 
+      "views": 18, 
+      "id": 100000004832415, 
+      "column": "", 
+      "geo_facet": "", 
+      "adx_keywords": "Clinton, Hillary Rodham;Abedin, Huma;Classified Information and State Secrets;E-Mail;Federal Bureau of Investigation;Presidential Election of 2016", 
+      "source": "The New York Times", 
+      "org_facet": [
+        "FEDERAL BUREAU OF INVESTIGATION"
+      ], 
+      "published_date": "2016-12-20", 
+      "per_facet": [
+        "CLINTON, HILLARY RODHAM", 
+        "ABEDIN, HUMA"
+      ], 
+      "type": "Article", 
+      "abstract": "The bureau told a judge shortly before the election that emails belonging to Huma Abedin, a top aide to Hillary Clinton, could contain classified information."
+    }, 
+    {
+      "asset_id": 100000004763652, 
+      "byline": "By MILAN SCHREUER", 
+      "des_facet": [
+        "RESTORATION AND RENOVATION", 
+        "ART"
+      ], 
+      "title": "A Master Work, the Ghent Altarpiece, Reawakens Stroke by Stroke", 
+      "url": "http://www.nytimes.com/2016/12/19/science/ghent-altarpiece-restoration.html", 
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/science/20GHENTJP2/20GHENTJP2-square320.jpg", 
+              "width": 320, 
+              "height": 320, 
+              "format": "square320"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/science/20GHENTJP2/20GHENTJP2-thumbStandard.jpg", 
+              "width": 75, 
+              "height": 75, 
+              "format": "Standard Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/science/20GHENTJP2/20GHENTJP2-articleInline.jpg", 
+              "width": 190, 
+              "height": 139, 
+              "format": "Normal"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/science/20GHENTJP2/20GHENTJP2-sfSpan.jpg", 
+              "width": 395, 
+              "height": 263, 
+              "format": "Large"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/science/20GHENTJP2/20GHENTJP2-jumbo.jpg", 
+              "width": 1024, 
+              "height": 747, 
+              "format": "Jumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/science/20GHENTJP2/20GHENTJP2-superJumbo.jpg", 
+              "width": 2048, 
+              "height": 1493, 
+              "format": "superJumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/science/20GHENTJP2/20GHENTJP2-square640.jpg", 
+              "width": 640, 
+              "height": 640, 
+              "format": "square640"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/science/20GHENTJP2/20GHENTJP2-thumbLarge.jpg", 
+              "width": 150, 
+              "height": 150, 
+              "format": "Large Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/science/20GHENTJP2/20GHENTJP2-mediumThreeByTwo210.jpg", 
+              "width": 210, 
+              "height": 140, 
+              "format": "mediumThreeByTwo210"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/20/science/20GHENTJP2/20GHENTJP2-mediumThreeByTwo440.jpg", 
+              "width": 440, 
+              "height": 293, 
+              "format": "mediumThreeByTwo440"
+            }
+          ], 
+          "subtype": "photo", 
+          "type": "image", 
+          "copyright": "Hugo Maertens, Lukas-Art in Flanders/St. Bavo Cathedral", 
+          "caption": "These interior wooden panels, featuring Adam and Eve (holding a citrus fruit), and the iconic \u201cThe Adoration of the Mystic Lamb,\u201d have yet to be restored. For many years, the inside panels were only displayed on feast days."
+        }
+      ], 
+      "section": "Science", 
+      "views": 19, 
+      "id": 100000004763652, 
+      "column": "", 
+      "geo_facet": [
+        "GHENT (BELGIUM)"
+      ], 
+      "adx_keywords": "Restoration and Renovation;Ghent (Belgium);Art;van Eyck, Jan;van Eyck, Hubert;University of Antwerp;University of Ghent;Ghent Altarpiece;Renaissance", 
+      "source": "The New York Times", 
+      "org_facet": [
+        "UNIVERSITY OF ANTWERP", 
+        "UNIVERSITY OF GHENT"
+      ], 
+      "published_date": "2016-12-19", 
+      "per_facet": [
+        "VAN EYCK, JAN", 
+        "VAN EYCK, HUBERT"
+      ], 
+      "type": "Article", 
+      "abstract": "Restorers painstakingly removed varnish and overpainting from a 15th-century work, after new scanning technology revealed that what lay below was stunning."
+    }, 
+    {
+      "asset_id": 100000004831643, 
+      "byline": "By CARA BUCKLEY", 
+      "des_facet": [
+        "MOVIES"
+      ], 
+      "title": "The Gender-Fluid Performer Who Changed the Academy\u2019s Mind", 
+      "url": "http://www.nytimes.com/2016/12/21/movies/oscars-kelly-mantle-gender-fluid-performer.html", 
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/arts/21CARPETBAGGER/21CARPETBAGGER-square320.jpg", 
+              "width": 320, 
+              "height": 320, 
+              "format": "square320"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/arts/21CARPETBAGGER/21CARPETBAGGER-thumbStandard-v2.jpg", 
+              "width": 75, 
+              "height": 75, 
+              "format": "Standard Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/arts/21CARPETBAGGER/21CARPETBAGGER-articleInline.jpg", 
+              "width": 190, 
+              "height": 250, 
+              "format": "Normal"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/arts/21CARPETBAGGER/21CARPETBAGGER-sfSpan.jpg", 
+              "width": 395, 
+              "height": 263, 
+              "format": "Large"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/arts/21CARPETBAGGER/21CARPETBAGGER-jumbo.jpg", 
+              "width": 780, 
+              "height": 1024, 
+              "format": "Jumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/arts/21CARPETBAGGER/21CARPETBAGGER-superJumbo.jpg", 
+              "width": 1560, 
+              "height": 2048, 
+              "format": "superJumbo"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/arts/21CARPETBAGGER/21CARPETBAGGER-square640.jpg", 
+              "width": 640, 
+              "height": 640, 
+              "format": "square640"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/arts/21CARPETBAGGER/21CARPETBAGGER-thumbLarge-v2.jpg", 
+              "width": 150, 
+              "height": 150, 
+              "format": "Large Thumbnail"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/arts/21CARPETBAGGER/21CARPETBAGGER-mediumThreeByTwo210.jpg", 
+              "width": 210, 
+              "height": 140, 
+              "format": "mediumThreeByTwo210"
+            }, 
+            {
+              "url": "https://static01.nyt.com/images/2016/12/21/arts/21CARPETBAGGER/21CARPETBAGGER-mediumThreeByTwo440.jpg", 
+              "width": 440, 
+              "height": 293, 
+              "format": "mediumThreeByTwo440"
+            }
+          ], 
+          "subtype": "photo", 
+          "type": "image", 
+          "copyright": "Alberto E. Rodriguez/Getty Images", 
+          "caption": "Kelly Mantle, in 2013. The Academy of Motion Picture Arts and Sciences has deemed the actor eligible for both female and male acting categories at the Oscars."
+        }
+      ], 
+      "section": "Movies", 
+      "views": 20, 
+      "id": 100000004831643, 
+      "column": "", 
+      "geo_facet": "", 
+      "adx_keywords": "Movies;Transgender and Transsexuals;Academy Awards (Oscars);Mantle,  Kelly;Confessions of a Womanizer (Movie);Ali, Miguel;Mantle, Mickey", 
+      "source": "The New York Times", 
+      "org_facet": "", 
+      "published_date": "2016-12-21", 
+      "per_facet": [
+        "MANTLE,  KELLY", 
+        "ALI, MIGUEL", 
+        "MANTLE, MICKEY"
+      ], 
+      "type": "Article", 
+      "abstract": "Kelly Mantle became the first performer eligible for best supporting actor or actress; the news drew an emotional outpouring. But he has taken it all in stride."
+    }
+  ], 
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved."
+}
